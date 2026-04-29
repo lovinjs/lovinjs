@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @LovinJS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello there! I'm @LovinJS
 
-<!---
-ixcw/ixcw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **Interests:** Java, Python, Front-end, Machine Learning, Deep Learning, and AI.
+- 🌱 **Currently Learning:** ML algorithms. Continuously expanding my tech stack!
+- 💞️ **Looking to Collaborate:** I'd love to team up on ML side projects, join study groups, or just have good conversations about tech.
+- 📫 **Contact Me:** You can email me at 228295392@qq.com. Let's connect and exchange ideas!
+
+*“Learning something new every day.”* 🚀
